@@ -1,40 +1,76 @@
 body {
-    font-family: "Montserrat";
-    font-size: 10pt;
+    font-family: Montserrat, Arial, Helvetica, sans-serif;
+    font-size: 2.4078%;
     font-weight: 1000;
     font-style: italic;
 }
 
-#btn-std {
-    height: 56px;
-    width: 56px;
+.btn-std {
+    position: relative;
+    height: 12.5404%;
+    width: 12.5404%;
+    border: 1px solid blue;
 }
 
-#die-std {
-    height: 56px;
-    width: 56px;
+.die-std {
+    display: inline-block;
+    position: absolute;
+    height: 12.5404%;
+    width: 12.5404%;
+    border: 1px solid navy;
 }
 
 #btn-special-rules {
-    position: relative;
-    top: 28px;
-    left: 114px;
+    top: 6.2702%;
+    left: 25.3972%;
 }
 
 #btn-history {
-    position: relative;
-    top: 28px;
-    left: 197px;
+    top: 6.2702%;
+    left: 43.7298%;
 }
 
 #btn-saved-pools {
-    position: relative;
-    top: 28px;
-    left: 280px;
+    top: 6.2702%;
+    left: 62.0624%;
 }
 
 #btn-roll {
-    position: relative;
-    top: 169px;
-    left: 197px;
+    top: 37.4596%;
+    left: 43.7298%;
+}
+
+#die-01 {
+    top: 27.8215%;
+    left: 14.067%;
+}
+
+#die-02 {
+    top: 47.0976%;
+    left: 14.067%;
+}
+
+#die-03 {
+    top: 62.6923%;
+    left: 25.3971%;
+}
+
+#die-04 {
+    top: 68.6489%;
+    left: 43.7298%;
+}
+
+#die-05 {
+    top: 62.0624%;
+    left: 62.6923%;
+}
+
+#die-06 {
+    top: 47.0976%;
+    left: 73.3926%;
+}
+
+#die-07 {
+    top: 27.8215%;
+    left: 73.3926%;
 }
