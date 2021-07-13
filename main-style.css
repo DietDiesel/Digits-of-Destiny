@@ -1,0 +1,40 @@
+body {
+    font-family: "Montserrat";
+    font-size: 10pt;
+    font-weight: 1000;
+    font-style: italic;
+}
+
+#btn-std {
+    height: 56px;
+    width: 56px;
+}
+
+#die-std {
+    height: 56px;
+    width: 56px;
+}
+
+#btn-special-rules {
+    position: relative;
+    top: 28px;
+    left: 114px;
+}
+
+#btn-history {
+    position: relative;
+    top: 28px;
+    left: 197px;
+}
+
+#btn-saved-pools {
+    position: relative;
+    top: 28px;
+    left: 280px;
+}
+
+#btn-roll {
+    position: relative;
+    top: 169px;
+    left: 197px;
+}
