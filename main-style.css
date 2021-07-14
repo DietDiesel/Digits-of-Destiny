@@ -13,7 +13,6 @@ body {
 }
 
 .die-std {
-    display: inline-block;
     position: absolute;
     height: 12.5404%;
     width: 12.5404%;
